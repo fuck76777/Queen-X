@@ -3,7 +3,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 
 //documents variants
@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ" //ur owner name
-global.ytname = "ʏᴜʀᴇꜱʜ" //ur yt chanel name
-global.socialm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['916201114061'] //ur owner number
+global.ownername = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur owner name
+global.ytname = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur yt chanel name
+global.socialm = "🤞•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•🤞" //ur github or insta name
+global.location = "India, Jharkhand, Latehar,Balumath" //ur location
 
 //bot bomdy 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
+global.ownernomer = "916201114061" //ur number
+global.premium = ['916201114061'] //ur premium number
+global.botname = '•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark packname
-global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻." //ur watermark
+global.packname = "  👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur sticker watermark packname
+global.author = "   •s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•." //ur watermark
 
 // Other
 global.sessionName = 'session'
