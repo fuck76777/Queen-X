@@ -26,8 +26,8 @@ global.ownernomer = "916201114061" //ur number
 global.premium = ['916201114061'] //ur premium number
 global.botname = '•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https:// no" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.websitex = "https:// Suraj" //ur website to be displayed
+global.botscript = 'https://Suraj //script link
 global.themeemoji = "🛸" //ur theme emoji
 global.packname = "  👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur sticker watermark packname
 global.author = "   •s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
@@ -41,14 +41,14 @@ global.sp = ''
 //messages
 global.mess = {
     success: '*👸🏻💭Here you go!*',
-    admin: '*👸🏻💭This feature could be used by admins only!*',
-    botAdmin: '*👸🏻💭Bot Must Be Admin First!*',
+    admin: '*👸🏻💭This feature could be used by Suraj only!*',
+    botAdmin: '*👸🏻💭 Suraj Must Be Admin First!*',
     premime: '*👸🏻💭Premium Special Features If You Want to Register Type Rent*',
     owner: '*👸🏻💭This feature could be used by owner only*',
-    group: '*👸🏻💭Features Used Only For Groups!*',
+    group: '*👸🏻💭Features Used Suraj Only For Groups!*',
     private: '*👸🏻💭Features Used Only For Private Chat!*',
     bot: '*👸🏻💭This feature could be used by bot only*',
-    wait: '*👸🏻💭Please wait...*',
+    wait: '*👸🏻💭Suraj Please wait...*',
     linkm: '*👸🏻💭Where is the link?*',
     endLimit: '*👸🏻💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
     nsfw: '*👸🏻💭The nsfw feature has not been activated, please contact the admin to activate*',
